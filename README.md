@@ -188,13 +188,3 @@ Here’s a clear explanation of each part:
 
 ---
 
-## 🎯 In Simple Words (Exam Ready)
-
-This HTML file represents a **multi-section responsive bakery website** that includes navigation, hero banner, about section, menu display, image gallery, and contact details. It uses external CSS for styling and JavaScript for interactivity, providing a modern and user-friendly web experience.
-
----
-
-If you want, I can also:
-✅ Explain the **CSS (style.css)**
-✅ Explain the **JavaScript (script.js)**
-✅ Convert this into a **project report description** (for your college)
